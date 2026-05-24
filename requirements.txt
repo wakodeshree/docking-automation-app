@@ -1,0 +1,11 @@
+streamlit
+pandas
+biopython
+rdkit
+meeko
+stmol
+py3Dmol
+xhtml2pdf
+numpy
+selenium
+webdriver-manager
